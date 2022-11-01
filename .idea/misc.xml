@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_grup_baru.xml" value="0.12396694214876033" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_perangkat_tertaut.xml" value="0.12396694214876033" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_pesan_berbintang.xml" value="0.1" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_setelan.xml" value="0.1" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_siaran.xml" value="0.1085972850678733" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_success_grup.xml" value="0.1" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_success_tautan.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_akun.xml" value="0.15" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_grup_baru.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_menu.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/LAB 5/AndroidStudioProjects/WhatsApp/app/src/main/res/menu/option_menu.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_baseline_link_24.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_grup_baru.xml" value="0.25" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_perangkat_tertaut.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_setelan.xml" value="0.1308016877637131" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_success_grup.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/activity_success_tautan.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_akun.xml" value="0.22" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_grup_baru.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_isipesan2.xml" value="0.15" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_menu.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_pesan2.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/layout/fragment_tautanpanggilan.xml" value="0.1" />
+        <entry key="..\:/Users/LAB5.2/AndroidStudioProjects/WhatsApp/app/src/main/res/menu/option_menu.xml" value="0.1" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.175" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.175" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.175" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/layout/activity_grup_baru.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/layout/fragment_grup_baru.xml" value="0.2" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/layout/fragment_menu.xml" value="0.265625" />
+        <entry key="..\:/Users/acer/WhatsApp/app/src/main/res/menu/option_menu.xml" value="0.1897810218978102" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

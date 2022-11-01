@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+
+    <string name="content_text">SpongeBob SquarePants adalah protagonis dari
+        seri animasi SpongeBob SquarePants. Ia memiliki karakter yang optimis dan kekanak-kanakan.
+        SpongeBob terinspirasi dari tokoh komedi seperti Stan Laurel dan Pee-Wee Herman.
+        Karakter SpongeBob disuarakan oleh Tom Kenny, seorang aktor sekaligus komedian.</string>
+
+    <string name="grup_baru">Ini adalah tampilan untuk membuat grup baru Untuk melanjutkan klik Buat Grup dibawah ini</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Buat tautan panggilan</string>
+    <string name="menu_2">Grup Baru</string>
+    <string name="menu_3">Siaran baru</string>
+    <string name="menu_4">Perangkat tertaut</string>
+    <string name="menu_5">Pesan berbintang</string>
+    <string name="menu_6">Setelan</string>
+
+    <string name="search_hint">Masukkan kata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anggota1">Anggota 1</string>
+    <string name="anggota2">Anggota 2</string>
+    <string name="Pesan1">Pesan 1</string>
+    <string name="buat_grup">Buat Grup</string>
+    <string name="Success_Grup">Grup Baru Berhasil dibuat</string>
+    <string name="siaran_baru">Ini adalah tampilan untuk membuat siaran baru</string>
+    <string name="tautkan">Gunakan WhatsApp di perangkat lain</string>
+    <string name="Tautkan_Perangkat">TAUTKAN PERANGKAT</string>
+    <string name="Success_tautan">Perangkat berhasil ditautkan</string>
+    <string name="pesan_berbintang">Ini adalah tampilan untuk menampilkan pesan berbintang</string>
+    <string name="setelan">Ini adalah tampilan menu Setelan</string>
+    <string name="Akun">Akun</string>
+    <string name="chat">Chat</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="penyimpanan">Penyimpanan dan data</string>
+    <string name="bahasa">Bahasa aplikasi</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="undang">Undang teman</string>
+    <string name="privasi">Privasi</string>
+    <string name="Pesan2">Pesan 2</string>
+    <string name="isipesan2">Ini adalah isi pesan 2</string>
+    <string name="tautanpanggilanfragment">Bagikan tautan untuk panggilan WhatsApp</string>
+</resources>
