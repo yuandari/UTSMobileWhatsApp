@@ -22,5 +22,3 @@ Prodi : Manajemen Informatika 5A</p>
 
 <p>Lalu Aplikasi Android yang sudah selesai disimpan pada repository github dan ditambahkan deskripsi pada file README.md</p>
 
-<h2>Tampilan WhatsApp</h2>
-<p>
