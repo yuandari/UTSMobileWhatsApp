@@ -1,4 +1,4 @@
-<h1>Tugas Pemrograman Mobile</h1></br>
+<h1>Tugas Pemrograman Mobile</h1>
 <p>Nama : Yuandari Astuti</br>
 NPM : 20753037</br>
 Prodi : Manajemen Informatika 5A</br>
