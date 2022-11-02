@@ -34,18 +34,8 @@ Project : Tampilan WhatsApp</p>
     <li>Pada tampilan halaman utama terdapat title yang digunakan untuk menampilkan nama aplikasi WhatsApp</li>
     <li>Disamping title ada Action Item Search untuk memudahkan dalam mencari pesan</li>
     <li>Disamping Action Items Search ada Action Item Tautan untuk melakukan action yang dapat membuat Tautan Panggilan Baru yanng didalamnya terdapat sebuah Fragment</li>
-    <li>Disamping Action Items terdapat Overflow Menu yang berisikan beberapa Menu dengan mengimplementasikan beberapa Activity dan Intent</li>
+    <li>Lalu terdapat Overflow Menu yang berisikan beberapa Menu dengan mengimplementasikan beberapa Activity dan Intent</li>
     <li>Pada tampilan halaman utama terdapat Buttom Pesan 1 yang dapat di klik. Jika buttom tersebut di klik akan berisi activity yang menampilkan pesan dengan  menggimplementasikan View dan View Group</li>
 </ul>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
 </html>    
